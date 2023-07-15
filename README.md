@@ -37,7 +37,7 @@ In machine learning, the learning process typically involves the following steps
 
 <li><b>Broadcasting:</b> NumPy enables broadcasting, which is a powerful mechanism for performing operations on arrays with different shapes. Broadcasting allows NumPy to perform arithmetic operations between arrays of different sizes, by implicitly extending the smaller array to match the shape of the larger array.</li>
 
-<li><b>Integration with Existing Code:</b> NumPy can seamlessly integrate with existing Python code and libraries. It provides tools to interact with data from other libraries and file formats, making it a versatile tool for scientific computing and data analysis.</li>
+<li><b>Integration with Existing Code:</b> NumPy can seamlessly integrate with existing Python code and libraries. It provides tools to interact with data from other libraries and file formats, making it a versatile tool for scientific computing and data analysis.</li></ul>
 
 </h2>Pandas</h2>
 <p>Pandas, a powerful data manipulation library in Python, plays a vital role in machine learning workflows. It provides efficient data structures and data analysis tools that facilitate data preprocessing, exploration, and feature engineering tasks.</p>
@@ -56,3 +56,5 @@ In machine learning, the learning process typically involves the following steps
 <li><b>Feature engineering:</b> Pandas enables feature engineering by providing a rich set of functions for creating and transforming features. You can use built-in functions or apply custom functions to create new features based on existing ones. This includes operations like arithmetic operations, text processing, date/time manipulation, and group-wise aggregations.</li>
 
 <li><b>Integration with machine learning libraries:</b> Pandas integrates seamlessly with other popular machine learning libraries like NumPy, scikit-learn, and TensorFlow. Data can be easily converted between Pandas DataFrames and NumPy arrays, allowing for smooth integration with machine learning algorithms and models.</li>
+
+</ul></p>
