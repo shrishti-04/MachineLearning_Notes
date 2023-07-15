@@ -39,7 +39,7 @@ In machine learning, the learning process typically involves the following steps
 
 <li><b>Integration with Existing Code:</b> NumPy can seamlessly integrate with existing Python code and libraries. It provides tools to interact with data from other libraries and file formats, making it a versatile tool for scientific computing and data analysis.</li></ul>
 
-</h2>Pandas</h2>
+<h2>Pandas</h2>
 <p>Pandas, a powerful data manipulation library in Python, plays a vital role in machine learning workflows. It provides efficient data structures and data analysis tools that facilitate data preprocessing, exploration, and feature engineering tasks.</p>
 
 <p><ul>
