@@ -76,7 +76,7 @@ Where:</p>
 
 </ul>
 
-<h3>Residual Sum of Squares
+<h3>Residual Sum of Squares</h3>
 <p>RSS stands for Residual Sum of Squares. In the context of linear regression, it refers to the sum of the squared differences between the observed values of the dependent variable and the corresponding predicted values obtained from the linear regression model.
 
 Mathematically, the RSS can be calculated as follows:
