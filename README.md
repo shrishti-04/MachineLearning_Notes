@@ -58,3 +58,57 @@ In machine learning, the learning process typically involves the following steps
 <li><b>Integration with machine learning libraries:</b> Pandas integrates seamlessly with other popular machine learning libraries like NumPy, scikit-learn, and TensorFlow. Data can be easily converted between Pandas DataFrames and NumPy arrays, allowing for smooth integration with machine learning algorithms and models.</li>
 
 </ul></p>
+
+<h2>Linear Regression</h2>
+<p>Linear regression is a statistical modeling technique used to establish a linear relationship between a dependent variable and one or more independent variables. It is a fundamental method in statistics and machine learning for predictive analysis and understanding the relationship between variables.</p>
+
+<p>In linear regression, the goal is to fit a straight line (or hyperplane in higher dimensions) to a given set of data points. The line is defined by a mathematical equation of the form:
+
+y = mx + b
+
+Where:</p>
+
+<ul>
+<li>y represents the dependent variable or the variable we are trying to predict.</li>
+<li>x represents one or more independent variables or predictors.</li>
+<li>m represents the slope of the line, which determines the direction and steepness.</li>
+<li>b represents the y-intercept, which is the value of y when x is equal to 0.</li>
+
+</ul>
+
+<h3>Residual Sum of Squares
+<p>RSS stands for Residual Sum of Squares. In the context of linear regression, it refers to the sum of the squared differences between the observed values of the dependent variable and the corresponding predicted values obtained from the linear regression model.
+
+Mathematically, the RSS can be calculated as follows:
+
+RSS = Σ(yᵢ - ȳ)²
+
+Where:</p>
+
+<ul>
+<li>yᵢ represents the observed value of the dependent variable for each data point.</li>
+<li>ȳ represents the mean of the observed values of the dependent variable.</li>
+
+</ul>
+
+<h3>Best Fit Line</h3>
+<p>The best fit line, also known as the regression line, is the straight line that represents the most optimal or best-fitting linear relationship between the dependent variable and one or more independent variables in a linear regression model. The term "best fit" indicates that this line minimizes the overall error or discrepancy between the observed values and the values predicted by the linear regression model.</p>
+
+<p>In a simple linear regression (with one independent variable), the best fit line is represented by the equation:
+
+y = mx + b
+
+Where:</p>
+
+<ul>
+
+<li>y is the dependent variable (the variable we are trying to predict).</li>
+<li>x is the independent variable (the predictor variable).</li>
+<li>m is the slope of the line, representing the rate of change of y concerning x.</li>
+<li>b is the y-intercept, which is the value of y when x is equal to 0.</li>
+
+<h2>Hyperparameter</h2>
+<p>A hyperparameter is a configuration setting used to control the training process of a machine learning model. Unlike the parameters of a model, which are learned from training data, hyperparameters are set prior to the training process and are not learned from the data. They essentially define the behavior and characteristics of the machine learning algorithm itself.</p>
+
+<h2>Ridge Regression</h2>
+<p>Ridge regression, also known as L2 regularization, is a linear regression technique used in statistics and machine learning to address the issue of multicollinearity (high correlation between independent variables) and to prevent overfitting. It does this by adding a regularization term to the linear regression cost function.</p>
