@@ -47,7 +47,7 @@ In machine learning, the learning process typically involves the following steps
 
 <li><b>Data exploration and descriptive statistics:</b> Pandas provides powerful tools for data exploration and descriptive statistics, allowing you to gain insights from your datasets. You can use functions like head(), describe(), and value_counts() to quickly examine the data, calculate summary statistics, and understand the distribution of variables.</li>
 
-<li><b>Data filtering and selection:<b> Pandas offers flexible indexing and slicing capabilities to filter and select subsets of data. You can use Boolean indexing, conditional expressions, or advanced query methods (query()) to select rows or columns based on specific conditions. This functionality is crucial for data preprocessing and creating subsets for training, testing, and validation in machine learning.</li>
+<li><b>Data filtering and selection:</b> Pandas offers flexible indexing and slicing capabilities to filter and select subsets of data. You can use Boolean indexing, conditional expressions, or advanced query methods (query()) to select rows or columns based on specific conditions. This functionality is crucial for data preprocessing and creating subsets for training, testing, and validation in machine learning.</li>
 
 <li><b>Data integration and merging:</b> Pandas facilitates the integration of multiple datasets by providing functions to merge, join, and concatenate data. You can combine datasets based on common keys or indices using methods like merge(), join(), and concat(). This is valuable when working with data from different sources or when combining features from multiple tables.</li>
 
