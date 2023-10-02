@@ -107,6 +107,8 @@ Where:</p>
 <li>m is the slope of the line, representing the rate of change of y concerning x.</li>
 <li>b is the y-intercept, which is the value of y when x is equal to 0.</li>
 
+</ul>
+
 <h2>Hyperparameter</h2>
 <p>A hyperparameter is a configuration setting used to control the training process of a machine learning model. Unlike the parameters of a model, which are learned from training data, hyperparameters are set prior to the training process and are not learned from the data. They essentially define the behavior and characteristics of the machine learning algorithm itself.</p>
 
